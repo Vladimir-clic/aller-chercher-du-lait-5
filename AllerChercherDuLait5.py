@@ -44,6 +44,7 @@ listejoueur = []
 
 
 
+
 #début du jeu
 class game : 
     def menu ():
@@ -244,3 +245,11 @@ class partie :
                     
 
 game.menu()
+
+
+
+
+
+
+
+
